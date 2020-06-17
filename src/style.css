@@ -1,0 +1,20 @@
+body{
+  background-color: burlywood;
+  font: 'Arial' sans-serif;
+}
+header{
+  text-align: center;
+}
+section{
+  background-color: sienna;
+  border-radius: 10px;
+  width: 500px;
+  padding: 5px;
+  margin: auto;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+}
+footer{
+  text-align: center;
+  font-size: 30px;
+  font: italic;
+}
